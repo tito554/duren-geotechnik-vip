@@ -1,0 +1,51 @@
+# Geotechnik — Düren
+
+> Geotechnical engineering services in Düren, Deutschland.
+
+## Services
+- [Anker](https://duren.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://duren.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://duren.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://duren.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://duren.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://duren.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://duren.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://duren.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://duren.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://duren.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://duren.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://duren.geotechnik.vip/fundamente/)
+- [Grundungen](https://duren.geotechnik.vip/grundungen/)
+- [Hange](https://duren.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://duren.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://duren.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://duren.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://duren.geotechnik.vip/labor/)
+- [Labor In Situ](https://duren.geotechnik.vip/labor-in-situ/)
+- [Masw](https://duren.geotechnik.vip/masw/)
+- [Pfahle](https://duren.geotechnik.vip/pfahle/)
+- [Proctor Versuche](https://duren.geotechnik.vip/proctor-versuche/)
+- [Ruttelverdichtung](https://duren.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://duren.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://duren.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://duren.geotechnik.vip/schurfgruben/)
+- [Seismik](https://duren.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://duren.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://duren.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://duren.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://duren.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://duren.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://duren.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://duren.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://duren.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://duren.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://duren.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://duren.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://duren.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://duren.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Düren, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
